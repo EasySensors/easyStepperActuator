@@ -1,9 +1,9 @@
 # easyDriverActuator
 easyDriverActuator is Based TMC 2208 silents Stepper driver and the Atmel ATMega328P 8MH) microcontroller with RFM 69 HCW or LoRa RFM95  radio on board
 
-![Arduino PIR](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/TMC2208_ACTUATOR_BOTTOM.jpg?raw=true)
-![Arduino PIR](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/TMC2208_ACTUATOR_PCB_TOP.jpg?raw=true)
-![Arduino PIR](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/TMC2208_ACTUATOR_MAIN.jpg?raw=true)
+![Arduino TMC2208](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/TMC2208_ACTUATOR_BOTTOM.jpg?raw=true)
+![Arduino TMC2208](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/TMC2208_ACTUATOR_PCB_TOP.jpg?raw=true)
+![Arduino TMC2208](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/TMC2208_ACTUATOR_MAIN.jpg?raw=true)
 
 
 **The easyPIRmultisensorsBox is a low cost wireless Arduino IDE compatible (the Atmel ATMega328P 8MHz) microcontroller with  RFM 69 CW or RFM 69 HCW or RFM 95 LoRa  radios on board and few other nice additions.** 
@@ -11,7 +11,7 @@ easyDriverActuator is Based TMC 2208 silents Stepper driver and the Atmel ATMega
 
 Best sutable for Home Automation, IOT.  You may think of it as Arduino Pro Mini plus all the items in the picture below:
 
-![Arduino PIR](https://github.com/EasySensors/easyPIRmultisensorsBox2/blob/master/pics/replcePIR2.jpg?raw=true)
+![Arduino TMC2208](https://github.com/EasySensors/easyStepperActuator/blob/master/pics/replce.jpg?raw=true)
 
 ## Specification: ##
 

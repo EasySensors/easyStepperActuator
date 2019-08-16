@@ -16,24 +16,16 @@ Best sutable for Home Automation, IOT.  You may think of it as Arduino Pro Mini 
 ## Specification: ##
 
  - MCU Atmel ATMega328P 8MHz) microcontroller
- - Radio- HopeRF RFM 69 CW or RFM 69 HCW or RFM 95 LoRa  (915, 868 0r 433 MHz) or Nordic Semiconductor NRF 24L01+ radio on board
+ - TMS2208 silent stepper motor driver
+ - Radio- HopeRFRFM 69 HCW or RFM 95 LoRa  (915, 868 0r 433 MHz)  radio on board
  - Enclosure dimensions 95mm*40mm*20mm 
- - Powered by two AA batteries
- - Booster converter alows to work from batteries drained as low as 0.7V combined
+ - Powered by external power supply 3000 mA. connector 
  - Wide operating temperature range. Tested -20 +40 Celsius
- - PIR sensor Am312 
- - Temperature and humidity sensor Si7021 
- - High Accuracy Temperature Sensor ±0.4 °C (max), –10 to 85 °C
- - Precision Relative Humidity Sensor ± 3% RH (max), 0–80% RH
- - Light sensor BH1750,  spectral responsibility is approximately human eye response.
  - Authentication security - Atmel ATSHA204A Crypto Authentication Chip
  - Dualoptiboot bootloader. Implements over the air (OTA) firmware update ability
  - FTDI  header for programming
- - Reverse polarity protection.
- - Arduino pins A0 A1 have pads on PCB for any special needs.
- - PIR triggers hardware interrupt 1
-
-
+ - 3 Buttons. forward back and motor trvel distance program button (middle) with LED indicator 
+ 
 
 **Arduino IDE Settings**
 
